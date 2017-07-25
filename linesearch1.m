@@ -130,7 +130,7 @@ while 1
         alphalo = alpha1;
         zoom=4;
     end
- iter_cnt = iter_cnt+1   
+ iter_cnt = iter_cnt+1;   
  zoom = 0;
 end
 end
